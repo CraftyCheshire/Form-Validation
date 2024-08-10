@@ -12,4 +12,8 @@ input:valid {
   
 input:invalid:required {
     background-image: linear-gradient(to right, rgb(246, 129, 149), rgb(117, 11, 165));
-  }
+}
+  
+input:valid:required {
+    background-image: linear-gradient(to right, rgb(242, 228, 29), rgb(88, 239, 80));
+}
